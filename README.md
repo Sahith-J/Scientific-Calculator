@@ -41,22 +41,22 @@ To run the Scientific Calculator, you need to have the following software instal
 ## Supported Operators and Functions
 The Scientific Calculator supports the following operators and functions:
 
--Basic Arithmetic Operators: Addition (+), Subtraction (-), Multiplication (x), Division (/), Modulo (%)
--Trigonometric Functions: sin, cos, tan
--Logarithmic Functions: log, ln
--Exponentiation: ^
--Parentheses: ( )
--Decimal Numbers: 0-9 and .
+- Basic Arithmetic Operators: Addition (+), Subtraction (-), Multiplication (x), Division (/), Modulo (%)
+- Trigonometric Functions: sin, cos, tan
+- Logarithmic Functions: log, ln
+- Exponentiation: ^
+- Parentheses: ( )
+- Decimal Numbers: 0-9 and .
 
 ## Examples
--Addition: 5 + 3 = 8
--Subtraction: 7 - 2 = 5
--Multiplication: 4 x 6 = 24
--Division: 9 / 3 = 3
--Modulo: 10 % 3 = 1
--Trigonometric Functions: sin(30) = 0.5, cos(45) = 0.707, tan(60) = 1.732
--Logarithmic Functions: log(100) = 2, ln(2.718) = 1
--Exponentiation: 2^3 = 8
--Parentheses: (2 + 3) x 4 = 20
+- Addition: 5 + 3 = 8
+- Subtraction: 7 - 2 = 5
+- Multiplication: 4 x 6 = 24
+- Division: 9 / 3 = 3
+- Modulo: 10 % 3 = 1
+- Trigonometric Functions: sin(30) = 0.5, cos(45) = 0.707, tan(60) = 1.732
+- Logarithmic Functions: log(100) = 2, ln(2.718) = 1
+- Exponentiation: 2^3 = 8
+- Parentheses: (2 + 3) x 4 = 20
 
 
