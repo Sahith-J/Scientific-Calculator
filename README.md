@@ -1,4 +1,4 @@
-# LGMVIP-03
+
 # Scientific Calculator
 
 Scientific Calculator is a Java application that provides advanced mathematical calculations and functions. The calculator features a graphical user interface (GUI) built using Java Swing.
